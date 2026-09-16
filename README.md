@@ -1,2 +1,2 @@
 # Mi proyecto
-Hola, soy el Alumno A
+Hola, soy el Alumno A y B
